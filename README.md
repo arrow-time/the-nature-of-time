@@ -1,6 +1,6 @@
 # The Nature Of Time
 
-the nature of time; the concept of time; the definition of time
+### keywords: the concept of time; the definition of time; time definition in physics; thermodynamic time; arrow of time; time's meaning; cosmology time
 
 What is time? How do we understand time? How do we define time? These are frequent questions on Q&A platform, and they are also questions that philosophers, physicists, scholars from interdisciplinary fields, and ordinary people have repeatedly contemplated and pursued. It can be said that understanding time is a fundamental philosophical and physical question.
 
